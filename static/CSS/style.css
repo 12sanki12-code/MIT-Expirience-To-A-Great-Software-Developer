@@ -1,0 +1,39 @@
+fruits{
+   background-color :dodgerblue;
+   color:red;
+   padding:30px;
+   margin:30px;
+   border:30px;
+   text-align:center;
+}
+ciyt{
+    background-color:green;
+    color:darkgoldenrod;
+    padding:25px;
+    margin:25px;
+    border:25px;
+    text-align:center;
+}
+cars{
+    background-color:maroon;
+    color :indigo;
+    padding:20px;
+    margin:20px;
+    border:20px;
+    text-align:center;
+}
+label{
+    background-color: indigo;
+    color: red;
+    margin: 15px;
+    text-align: center;
+}
+input{
+    background-color: aqua;
+    color: maroon;
+    margin: 10px;
+    text-align: centers;
+}
+form{
+    background-image:<img src="static";
+}
